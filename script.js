@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const scoreDisplay = document.getElementById('score');
     const timerDisplay = document.getElementById('timer');
 
-    const catImages = ['cat1.png', 'cat2.png', 'cat3.png', 'cat4.png'];
+    const catImages = ['cat1.PNG', 'cat2.PNG', 'cat3.PNG', 'cat4.PNG'];
     const speeds = [2000, 1500, 1000, 3000]; // Speed for each cat
     const colors = ['#FFB6C1', '#FFD700', '#87CEFA', '#9370DB', '#FF6347', '#98FB98']; // Pastel colors
 
